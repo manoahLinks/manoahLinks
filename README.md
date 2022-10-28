@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luka Manoah</h1>
 <h3 align="center">A backend developer from Nigeria.</h3>
-<img align="right" alt="idea" width="400" src="https://media.istockphoto.com/photos/illustration-of-smiling-businessman-in-suit-with-laptop-and-bulb-over-picture-id1286357381?s=612x612" />
+<img align="right" alt="idea" style="width:400px;" src="https://media.istockphoto.com/photos/illustration-of-smiling-businessman-in-suit-with-laptop-and-bulb-over-picture-id1286357381?s=612x612" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoahlinks&label=Profile%20views&color=0e75b6&style=flat" alt="manoahlinks" /> </p>
 
