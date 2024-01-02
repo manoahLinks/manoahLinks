@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Luka Manoah</h1>
-<h3 align="center">A Javascript developer & Blockchain enthusiast from Nigeria.</h3>
+<h3 align="center">I am a web3 developer from Nigeria, i write smart contracts with solidity and build user interfaces with reactjs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoahlinks&label=Profile%20views&color=0e75b6&style=flat" alt="manoahlinks" /> </p>
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Cairo**
 
-- 💬 Ask me about **mern stack**
+- 💬 Ask me about **Building fullstack DApps**
 
 - 📫 How to reach me **manoahluka@gmail.com**
 
