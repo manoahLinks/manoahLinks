@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luka Manoah</h1>
-<h3 align="center">I am a web3 developer from Nigeria, i write smart contracts with solidity and build user interfaces with react.</h3>
+<h3 align="center">I am a web3 developer from Nigeria, i write smart contracts with solidity/cairo and build user interfaces with react.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoahlinks&label=Profile%20views&color=0e75b6&style=flat" alt="manoahlinks" /> </p>
 
