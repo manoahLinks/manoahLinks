@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoahlinks&label=Profile%20views&color=0e75b6&style=flat" alt="manoahlinks" /> </p>
 
-- 🌱 I’m currently learning **Cairo**
+- 🌱 I’m currently learning **Rust** 🦀
 
 - 💬 Ask me about **Building fullstack DApps**
 
