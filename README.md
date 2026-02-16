@@ -20,7 +20,7 @@ I turn ambitious concepts into polished, end-to-end decentralized applications. 
 - Building partnerships with founders, artists, and communities that want to experiment on-chain
 
 ### 🧰 Toolbox
-- **Languages:** TypeScript, Rust, Solidity, Cairo, Go (just enough to be dangerous)
+- **Languages:** TypeScript, Rust, Solidity, Cairo (just enough to be dangerous)
 - **Stacks:** Dojo, Starknet, Next.js, Node.js, React, Supabase, Postgres
 - **Infra & DevEx:** Docker, Foundry, Hardhat, sozo, Katana, GitHub Actions
 - **What I bring:** shipping velocity, empathy for users, clean architecture, sharp documentation
