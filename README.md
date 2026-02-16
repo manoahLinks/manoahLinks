@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Mano (aka Mano.dev) 🚀
+# Hey, I'm Manoah (aka Mano.dev) 🚀
 
 **Full-stack blockchain engineer • Product-minded builder • Relentless collaborator**
 
